@@ -1,0 +1,16 @@
+{
+  "name": "chat-app-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Underwood",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.8.2",
+    "sequelize": "^5.1.0",
+    "socket.io": "^2.2.0"
+  }
+}
